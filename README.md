@@ -3,7 +3,7 @@
 ## Table_of_Contents
 
 ### Assignments
-- [Assignment_1_BMI_Calculator](#Assignments/Assignment_1/bmi_calculator)
+- [Assignment_1_BMI_Calculator](#C-CPP-Codes/Assignments/Assignment_1/bmi_calculator)
 - [Assignment_2_1_Math_Functions](#Assignment_2/math_functions)
 - [Assignment_2_2_Pi_Approximation](#Assignment_2/pi_approximation)
 - [Assignment_3_1_Prime_Numbers](#Assignment_3/prime_numbers)
